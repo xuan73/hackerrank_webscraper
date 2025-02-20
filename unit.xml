@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="TestWebScraper-20250220153309" tests="4" file=".py" time="2.024" timestamp="2025-02-20T15:33:14" failures="0" errors="0" skipped="0">
+		<testcase classname="TestWebScraper" name="test_scrape_avg_close" time="2.012" timestamp="2025-02-20T15:33:14" file="project/tests.py" line="57"/>
+		<testcase classname="TestWebScraper" name="test_scrape_company_name" time="0.003" timestamp="2025-02-20T15:33:14" file="project/tests.py" line="45"/>
+		<testcase classname="TestWebScraper" name="test_scrape_company_ticker" time="0.006" timestamp="2025-02-20T15:33:14" file="project/tests.py" line="49"/>
+		<testcase classname="TestWebScraper" name="test_scrape_ytd_return" time="0.004" timestamp="2025-02-20T15:33:14" file="project/tests.py" line="53"/>
+	</testsuite>
+</testsuites>

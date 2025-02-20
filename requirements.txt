@@ -1,0 +1,7 @@
+flask
+unittest-xml-reporting
+xmlrunner
+chardet
+Jinja2
+requests
+beautifulsoup4
